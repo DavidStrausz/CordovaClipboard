@@ -1,0 +1,26 @@
+{
+  "author": {
+    "name": "Verso Solutions LLC"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VersoSolutions/CordovaClipboard"
+  },
+  "name": "Clipboard",
+  "version": "0.1.0",
+  "description": "Clipboard management plugin for Cordova/PhoneGap",
+  "cordova": {
+    "id": "com.verso.cordova.clipboard",
+    "platforms": [
+      "android",
+      "ios",
+      "wp8"
+    ]
+  },
+  "keywords": [
+    "clipboard",
+    "copy",
+    "paste"
+  ]
+}
