@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/VersoSolutions/CordovaClipboard"
   },
-  "name": "Clipboard",
+  "name": "com.verso.cordova.clipboard",
   "version": "0.1.0",
   "description": "Clipboard management plugin for Cordova/PhoneGap",
   "cordova": {
